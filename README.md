@@ -1,6 +1,6 @@
 # VFP Agent Skills
 
-A curated collection of 71 agent skills for OpenCode, Claude Code, Codex, Cursor, and other compatible coding agents.
+A curated collection of 72 agent skills for OpenCode, Claude Code, Codex, Cursor, and other compatible coding agents.
 
 ## Install
 
@@ -53,6 +53,7 @@ npx skills add victoryforphil/skill_issue --global
 | `review-comments` | Review for comment quality and noise |
 | `review-shape` | Review for function/file shape and organization |
 | `review-tests` | Review for test quality and coverage |
+| `thermo-nuclear-code-quality-review` | Extremely strict maintainability review for abstraction quality, giant files, and spaghetti-condition growth |
 
 ### Languages & Frameworks
 
@@ -148,6 +149,7 @@ Load with: `skill({ name: "skill-name" })`
 ### Style & Review
 - style-core, style-cpp, style-git-commit, style-docs, style-feedback, style-guide
 - writing-guidelines, review-style-core, review-core, review-dry, review-comments, review-shape, review-tests
+- thermo-nuclear-code-quality-review
 
 ### Languages & Frameworks
 - pro-zephyr (Zephyr RTOS), pro-rerun, pro-rerun-cli, pro-react-three-map
