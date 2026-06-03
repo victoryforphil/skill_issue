@@ -1,6 +1,6 @@
 # VFP Agent Skills
 
-A curated collection of 72 agent skills for OpenCode, Claude Code, Codex, Cursor, and other compatible coding agents.
+A curated collection of 73 agent skills for OpenCode, Claude Code, Codex, Cursor, and other compatible coding agents.
 
 ## Install
 
