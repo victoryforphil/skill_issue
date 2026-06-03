@@ -1,4 +1,5 @@
 ---
+hash: "4cacdcb3445428b00537771f1a28913c511c437fc7e6b1dee72197b5947b57c0"
 name: writing-guidelines
 description: Review docs/prose for Writing Guidelines compliance. Use when asked to "review my docs", "check writing style", "audit prose", "review docs voice and tone", or "check this page against the writing handbook".
 metadata:

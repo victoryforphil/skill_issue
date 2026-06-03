@@ -1,4 +1,5 @@
 ---
+hash: "99111e575272665055decb121b297c7d2e91e6d2dfaf4544a36643ad28371031"
 name: gha-babysit
 description: Triage failing GitHub Actions runs, apply fixes, push, and watch reruns in a repeatable loop.
 ---

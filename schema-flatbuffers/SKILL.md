@@ -1,4 +1,5 @@
 ---
+hash: "776760665d2890944cdd9431bcb821d5b8e97cc9acd9dc03ba12fe2d892ab133"
 name: schema-flatbuffers
 description: Design and evolve FlatBuffers schemas with compatibility checks, generated-code discipline, and project-neutral naming guidance.
 ---

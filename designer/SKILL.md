@@ -1,4 +1,5 @@
 ---
+hash: "04b21a8244fd9f7e60f01b5e4acaec24f426caeb436f423032557eef52c1f515"
 name: designer
 description: Guidance for using the design agents in OpenCode.
 ---

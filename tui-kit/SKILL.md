@@ -1,4 +1,5 @@
 ---
+hash: "01a5b8d96c756f92d93100f60299499973cdfff56f57a843eec9872a8083a467"
 name: tui-kit
 description: Use when working on the vfp_tuikit crate, example binary, or picker output helpers.
 ---

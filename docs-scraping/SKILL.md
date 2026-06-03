@@ -1,4 +1,5 @@
 ---
+hash: "d67002d6320d9dd993cc059a5dbf46363b09e02829fbaad52527b0e4c23d68b7"
 name: docs-scraping
 description: Add or refresh external documentation snapshots from user requests into split `.ext.md` pages and `index.ext.md`.
 ---

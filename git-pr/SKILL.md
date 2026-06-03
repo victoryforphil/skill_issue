@@ -1,4 +1,5 @@
 ---
+hash: "d6d2983b733c62b194b6c1fc640a2f940f54859d3a385f52c00571b672f58724"
 name: git-pr
 description: Prepare, review, and approve pull requests safely with concrete evidence, clean status checks, and explicit approval for push/merge actions.
 ---

@@ -1,4 +1,5 @@
 ---
+hash: "fa25e0d89c2ee8694a8f463b3d4cdbdc9b5389ebe8ac772a90165f760eb84acf"
 name: style-cpp
 description: Apply broadly useful modern C++ style: clear ownership, RAII, simple control flow, focused files, and readable low-cleverness implementation.
 ---

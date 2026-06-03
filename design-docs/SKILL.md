@@ -1,4 +1,5 @@
 ---
+hash: "bed9711d123bdd7190e8e606407a7a1649d77ae6bf0afe46c3865ad7ce6808ab"
 name: design-docs
 description: Write and maintain design/decision docs in docs/designs/ for every system or change, so agents can recover context after sessions.
 ---

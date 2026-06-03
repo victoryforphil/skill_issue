@@ -1,6 +1,6 @@
 # VFP Agent Skills
 
-A curated collection of 71 agent skills for OpenCode, Claude Code, Codex, Cursor, and other compatible coding agents.
+A curated collection of 72 agent skills for OpenCode, Claude Code, Codex, Cursor, and other compatible coding agents.
 
 ## Install
 
@@ -82,6 +82,7 @@ npx skills add victoryforphil/skill_issue --global
 | `pi-plugin-authoring` | Author Pi coding-agent plugins/extensions |
 | `skill-scraper` | Scrape docs.rs into OpenCode skills |
 | `skill-authoring` | Author new skills for the ecosystem |
+| `skill-comparator` | Compare skill versions and find duplicates using content hashes with ripgrep |
 | `docs-scraper` | Scrape technical docs into local reference notes |
 | `docs-scraping` | Web documentation scraping patterns |
 | `find-skills` | Discover and install skills from the ecosystem |
@@ -157,7 +158,7 @@ Load with: `skill({ name: "skill-name" })`
 ### Developer Tooling
 - opencode (OpenCode CLI/TUI reference), gh-stack (GitHub stacked PRs)
 - pi-worktree-status, pi-plugin-authoring
-- skill-scraper (docs.rs → skill), skill-authoring, find-skills
+- skill-scraper (docs.rs → skill), skill-authoring, find-skills, skill-comparator
 - docs-scraper, docs-scraping, use-railway, gitter-commit, gha-babysit
 
 ### Workflow & Agents
@@ -178,6 +179,22 @@ When unsure which skill to load, use `find-skills` to search.
 ```
 
 </details>
+
+## Content Hashing System
+
+To enable reliable, extremely fast comparisons and update checks, every `SKILL.md` contains a content-based SHA-256 signature in its frontmatter:
+
+```yaml
+hash: "08d03f0cd929d3bf3501dd64470e2a6c72ff4fb77e1f7fedddf42ccc13fd05a5"
+```
+
+### Signature Rules
+- The hash is calculated on the **instruction body** only (everything below the second `---` separator of the frontmatter).
+- It is trimmed of leading and trailing whitespace.
+- It is independent of the filename, skill name, description, and metadata.
+- This ensures that if a skill's instructions are identical, the hash will match perfectly across different workspaces, repositories, or scopes.
+
+Use the `skill-comparator` skill to learn how to search, verify, and compare these hashes using `ripgrep`.
 
 ## Skill Format
 

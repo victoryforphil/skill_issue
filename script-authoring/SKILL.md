@@ -1,4 +1,5 @@
 ---
+hash: "6105a5834635861adad65fe1e1e2a58a5c22070038b74b8bc42ebeea9a95f11b"
 name: script-authoring
 description: Create Bun shebang scripts from prompts, examples, bash snippets, or conversation context.
 ---

@@ -1,4 +1,5 @@
 ---
+hash: "9f7d0b1a6809926836302741a8a5e0313e5648dd548700dfd3b099f8e5387858"
 name: vfp-style-git
 description: Inform git commits, commit grouping, branch prep, and related git operations with VFP-style guidance.
 ---

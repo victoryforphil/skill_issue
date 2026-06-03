@@ -1,4 +1,5 @@
 ---
+hash: "48194146fbc2b520063360a6f0042d66a3d41529d0ad8528af3ba457b91cd78b"
 name: cpp-gtest
 description: Discover, build, and run GoogleTest/CTest tests with focused filters, direct executable runs, and compact verification reporting.
 ---

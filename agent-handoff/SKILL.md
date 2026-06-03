@@ -1,4 +1,5 @@
 ---
+hash: "df60c4a9b27819dca808cc4659dea137db92891d6f326e3f18a7546bfed127d5"
 name: agent-handoff
 description: Create durable handoff memory and task notes for agent swarms, long sessions, and resumed work while avoiding private/runtime state.
 ---

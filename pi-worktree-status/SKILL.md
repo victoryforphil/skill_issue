@@ -1,4 +1,5 @@
 ---
+hash: "5741ae9e8aa1c555ab3a81cb2b8952162f7be46bfccdff36f107bd0132147547"
 name: pi-worktree-status
 description: Use the pi-messenger workspace channel as shared global context for what agents are working on, which repos/worktrees/branches exist, and their relative paths. Load when starting work in a repo/worktree, switching branches, coordinating with other agents, or needing to query current workspace usage.
 ---

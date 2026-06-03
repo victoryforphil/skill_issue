@@ -1,4 +1,5 @@
 ---
+hash: "cf4d46e6391251939fb55309f280c76d91bbcf6e5b5964a21aba393a122499c6"
 name: tsc-fix
 description: Safely iterate through TypeScript compiler errors with low-risk fixes first.
 ---

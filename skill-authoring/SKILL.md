@@ -1,4 +1,5 @@
 ---
+hash: "8728155b4f7c5dc79623326acd765955aaa172d98d2b6432b088c2b8a15a78a6"
 name: skill-authoring
 description: Create, scrape, normalize, and validate reusable agent skills from docs and existing workflows.
 ---

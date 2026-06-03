@@ -1,4 +1,5 @@
 ---
+hash: "5e6807efc841a87c7eb1ec58669ce4bb487e70fd771c672f453af3f7cf09bf6e"
 name: agent-fanout
 description: Use scout, research, and bulk worker fanout patterns for broad recon, parallel investigation, and synthesis without losing control of decisions.
 ---

@@ -1,4 +1,5 @@
 ---
+hash: "a417c40c4d2a8a435a100c55c417761b6a358abeb0c5cf9d3c1c1b0a701d38be"
 name: bun-script
 description: Write executable Bun shell scripts using the .sh.ts pattern — TypeScript files with bun shebang, Bun.$ shell, and Bun.spawn for process management.
 ---

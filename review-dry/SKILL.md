@@ -1,4 +1,5 @@
 ---
+hash: "93e7894a93c8b2ae5459c1deac30cd63e5d97526316bc8307c14935fcbd0d9f7"
 name: review-dry
 description: Review for harmful duplication, copy-pasted logic, unnecessary wrappers, and chances to remove repeated maintenance paths.
 ---

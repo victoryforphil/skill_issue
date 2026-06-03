@@ -1,4 +1,5 @@
 ---
+hash: "1374e9628560bddf1a99a6805250923099a1a42f7ab5b5dc3ad66fe2abc23413"
 name: style-feedback
 description: Capture feedback about code style, patterns, or conventions and persist it as a style-* skill in .agents/skills/. Load when the user gives style feedback or asks to create/update a style skill.
 ---

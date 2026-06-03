@@ -1,4 +1,5 @@
 ---
+hash: "8e3acd7b630259a7404b377ab688fdc1b4d8de99831fb4ab9a90c7d8b57b4408"
 name: feedback
 description: Capture repeated user feedback into the smallest durable home: style docs, skills, review rules, memories, or local project guidance.
 ---

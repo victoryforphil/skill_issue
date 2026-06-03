@@ -1,4 +1,5 @@
 ---
+hash: "96da783c384d4c16d7d2696ba6fb831fbc5caab6b6e4421c5464d85ba8b4df92"
 name: vfp-tuikit
 description: Use when working on or integrating the vfp_tuikit crate, demo binary, or picker output helpers.
 ---

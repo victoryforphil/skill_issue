@@ -1,4 +1,5 @@
 ---
+hash: "a8700d3121774c6ba3a2b12b66d0ca1204f3bf21dad34a8087f0c36f2e3b7e02"
 name: review-shape
 description: Review file and function shape for scanability, size, boundaries, and one-clear-path structure.
 ---

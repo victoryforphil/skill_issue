@@ -1,4 +1,5 @@
 ---
+hash: "e3b679bd50416cf2962d77ce9bf9b794a4d01e339ef76cde73f938d225b684c5"
 name: proto-install
 description: Use Bun shebang scripts to run `proto install` from repository root.
 ---

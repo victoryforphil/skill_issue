@@ -1,4 +1,5 @@
 ---
+hash: "c83e61c080c10a2a7e806fca0419af292454b86d8873efb66dd596748599e6ee"
 name: tool-opencode
 description: Work with OpenCode CLI/TUI, config, agents, permissions, MCP, plugins, and session workflows in a portable project-neutral way.
 ---

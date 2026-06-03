@@ -1,4 +1,5 @@
 ---
+hash: "75d76db7cc0f4edea76a6ba9364d42e4d2f3bcd43ee0c14682bd4d33eec84e8c"
 name: git-commit
 description: Plan and create sensible git commits from the current tree with status/diff inspection, safe staging, concise messages, and explicit push approval.
 ---

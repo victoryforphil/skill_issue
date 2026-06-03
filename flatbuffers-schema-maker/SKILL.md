@@ -1,4 +1,5 @@
 ---
+hash: "4c7a169d4c1516ed2576dba9fa6cf0eee0f49cda7707a133f110eda7a98da779"
 name: flatbuffers-schema-maker
 description: Use when creating or evolving FlatBuffers schemas. Follows standard schema design, compatiblity rules, and CMake generation patterns.
 ---

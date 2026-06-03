@@ -1,4 +1,5 @@
 ---
+hash: "e42390856aa6f6f4cc038d33e4409213b0a47deeded4f7d0b064bd95c6d45096"
 name: opencode-migration
 description: Migrate reusable OpenCode assets into chappie with consistent routing, style, and safety checks.
 ---

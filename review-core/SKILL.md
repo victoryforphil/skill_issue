@@ -1,4 +1,5 @@
 ---
+hash: "c6c5378839360876bb0de29c822407e5a2681f9422468e7b0da6b1f94b5dc4b7"
 name: review-core
 description: Review changes for scope control, maintainability drift, duplicate flows, and repo-wide style regressions; return only concrete findings or looks good.
 ---

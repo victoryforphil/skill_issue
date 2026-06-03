@@ -1,4 +1,5 @@
 ---
+hash: "c4ac5295b1e243167f05249b6faabb721ed5045cd2d3bc602ea050d373e556e9"
 name: agent-core
 description: Coordinate subagents or teammates with clear roles, bounded tasks, source-of-truth ownership, and concise synthesis.
 ---

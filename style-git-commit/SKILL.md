@@ -1,4 +1,5 @@
 ---
+hash: "93caba01ed7120d3c18d40160723919b71d8b01753bc74412a3b57e587b6dbde"
 name: style-git-commit
 description: Self-contained git commit skill following the Loki repo conventions. Any agent can load this and commit in the repo's style without needing a subagent.
 ---

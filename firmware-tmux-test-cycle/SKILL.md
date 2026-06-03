@@ -1,4 +1,5 @@
 ---
+hash: "5335f349c96a0d570d457eee8f4df000c9e11f5da35c935bca54e64e07bafa7a"
 name: firmware-tmux-test-cycle
 description: Use when testing Loki firmware on the two Makerfabs ESP32 UWB boards with tmux, firmware_buddy serial consoles, west flash, or staged hardware test handoffs.
 ---

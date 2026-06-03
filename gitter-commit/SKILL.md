@@ -1,4 +1,5 @@
 ---
+hash: "27b3a10af0ee9a36b9890ce28876d01b2a08d155eeb808ad758ac72d7face4e3"
 name: gitter-commit
 description: Use the gitter subagent to handle git status, diffs, and commits regularly.
 ---

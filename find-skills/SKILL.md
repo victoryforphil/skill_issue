@@ -1,4 +1,5 @@
 ---
+hash: "e169c712ffacbdfb05a7e7b45e853c8edca9b7810e686fab6810ca111d1e0d12"
 name: find-skills
 description: Helps users discover and install agent skills when they ask questions like "how do I do X", "find a skill for X", "is there a skill that can...", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable skill.
 ---

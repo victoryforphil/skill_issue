@@ -1,4 +1,5 @@
 ---
+hash: "d644786d266cfba15a00e6e435934ed09dc478a3c5e01e913acfc68d6cf53e9e"
 name: style-core
 description: Apply generic smallest-correct-change, one-clear-path, focused-file, and maintainability style rules for implementation, refactor, docs, prompts, and review tasks.
 ---

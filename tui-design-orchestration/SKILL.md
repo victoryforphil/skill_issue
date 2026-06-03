@@ -1,4 +1,5 @@
 ---
+hash: "28e3bd8dbf8d15e957eca6d48b16233c5c84a83d6f3ab2d799fa0814ef7ab931"
 name: tui-design-orchestration
 description: Orchestrate Ratatui design critique, component planning, parallel implementation, and final polish with @tui_designer.
 ---

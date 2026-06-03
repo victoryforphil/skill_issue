@@ -1,4 +1,5 @@
 ---
+hash: "8589cc86ce77091acb8ed53c326e035a4ea0cede5ad2eadf13ea4021d2fae375"
 name: pro-rerun-cli
 description: >
   Expert knowledge of the Rerun CLI (`rerun` binary). Load when working with the

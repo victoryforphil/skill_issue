@@ -1,4 +1,5 @@
 ---
+hash: "bfe3efd087317fb678647272251bd3e211997eb66c48f45572a6edaa316779f0"
 name: pro-rerun
 description: >
   Expert knowledge of the Rerun visualization SDK and platform (v0.33.0). Load

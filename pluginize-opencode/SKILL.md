@@ -1,4 +1,5 @@
 ---
+hash: "39f94e5bea4897f71af1df8f78f3d5b284da3af285677797f75da3f5eaaaf73f"
 name: pluginize-opencode
 description: Convert native OpenCode assets into pluginized files (.agent.md, .cmd.md, .skill.md, .tool.ts|js, .rule.md).
 ---

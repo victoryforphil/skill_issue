@@ -1,4 +1,5 @@
 ---
+hash: "ae691e76eb1bef9acced9d1d4232afb996a3a43a01392481dad6595d8dd9c689"
 name: reflect
 description: Do a quick end-of-task reflection and capture durable lessons.
 ---

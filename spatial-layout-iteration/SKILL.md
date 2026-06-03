@@ -1,3 +1,9 @@
+---
+hash: "6058054c171b9cdd88e6ac12f44975de305fc863c196cfc81b0a3da2933e58aa"
+name: spatial-layout-iteration
+description: Spatial layout iteration guidelines for dark_tui layouts.
+---
+
 # Spatial Layout Iteration Skill
 
 Use this skill when iterating on `dark_tui` spatial layouts (Station/Orbit) against design references.

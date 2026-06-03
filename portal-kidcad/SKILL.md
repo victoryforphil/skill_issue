@@ -1,4 +1,5 @@
 ---
+hash: "5fa36dacd971f2893e185dabf255762c4072e5f0d0f33af2a86e7925e05f59ad"
 name: portal-kidcad
 description: Setup, refresh, and run the Portal PCB editor monorepo locally, with separate instructions for first clone, after fetching changes, and every normal dev session.
 ---

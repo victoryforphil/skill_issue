@@ -1,4 +1,5 @@
 ---
+hash: "67b5c5b9b5bfaca3c7eed2142d7328ca27c76827d9c26c03d1bb77e0115b6c15"
 name: skill-scraper
 description: >
   Generates a new OpenCode expert skill from a docs.rs URL. Load when asked

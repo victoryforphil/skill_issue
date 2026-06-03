@@ -1,4 +1,5 @@
 ---
+hash: "f93fd4870dfca43f052345e13669f8cd345ac1fed4aa27ca87ea983872eb1bbc"
 name: devcontainer-workflows
 description: Build layered Docker dev containers, attach quickly, and run agent commands in containerized workspaces.
 ---

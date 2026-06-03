@@ -1,4 +1,5 @@
 ---
+hash: "c10a114ab6c9a2c9314830b10288575ec9a2903c73d6609f075735249b258de0"
 name: research
 description: Run inspection-first, evidence-backed codebase research with parallel @explore subagents before implementation.
 ---

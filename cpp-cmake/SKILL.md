@@ -1,4 +1,5 @@
 ---
+hash: "9f4c3e025588f8ae31b67a221dfd3064aa8322f20654556e1fe9a139b5622909"
 name: cpp-cmake
 description: Use modern target-based CMake patterns, discover local build conventions, keep generated outputs in build trees, and verify target changes.
 ---

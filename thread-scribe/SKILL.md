@@ -1,4 +1,5 @@
 ---
+hash: "dcccd278d3f887b0d0dfa3052207162a6607e93cfb5c87628cff614af7c311ae"
 name: thread-scribe
 description: Invoke the scribe agent to export and trim finished OpenCode threads into .chat.md archives.
 ---

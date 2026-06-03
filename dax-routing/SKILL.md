@@ -1,4 +1,5 @@
 ---
+hash: "173237a3ca0a9ae852ded09d7a591b9904984132ef0adb1405c711ae846fcaf3"
 name: dax-routing
 description: Route OpenCode systems tasks to the dax subagent.
 ---

@@ -1,4 +1,5 @@
 ---
+hash: "819cfc9fc16028df3c83718794df8f20da402aab3bd04fb19fdefcc906445f3b"
 name: geojson
 description: >
   Expert knowledge of the geojson Rust crate (0.24.2). Load when working with geojson — covers key API, types, traits, patterns, and navigation tips scraped from docs.rs.

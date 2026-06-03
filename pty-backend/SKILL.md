@@ -1,4 +1,5 @@
 ---
+hash: "64af7b8d91793d095eeb274d2a42792ebb57dcb950b167b72be1cd35e965044c"
 name: pty-backend
 description: Use opencode-pty for long-running backend sessions, interactive processes, and log-driven tasks.
 ---

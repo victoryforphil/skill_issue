@@ -1,4 +1,5 @@
 ---
+hash: "5f40ea59b7a22f8d29de093d9840c01b602a5ac75e74b290a6a4e246af8c905f"
 name: agent-review
 description: Run multi-agent or council-style review workflows for code, docs, plans, and designs with concrete findings and final synthesis.
 ---

@@ -1,4 +1,5 @@
 ---
+hash: "345066734446f10a2b6d09767e2ca634de9bb49b25b5423373e4e18766c78ebc"
 name: use-railway
 description: >
   Operate Railway infrastructure: create projects, provision services and

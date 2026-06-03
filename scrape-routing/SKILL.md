@@ -1,4 +1,5 @@
 ---
+hash: "c1bde128187503a6e3078a78b7433dfbf3fe60043b3bb4be8d12871acfc4e6f3"
 name: scrape-routing
 description: Route docs scraping tasks through the dedicated scraper subagent and shared scraper helpers.
 ---

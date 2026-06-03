@@ -1,4 +1,5 @@
 ---
+hash: "90a319485bc8dbd7f981f7714a0d3fa4c8c201de7b11134c30865aebc2a976bc"
 name: pro-zephyr
 description: Expert-level reference for Zephyr RTOS — project structure, West meta-tool + CMake build system, application model, Kconfig, devicetree, driver model, modules, and the Develop guide index. Load when working in the firmware/ project, writing or modifying Zephyr apps/drivers/samples, building for new boards, adding devicetree overlays, configuring Kconfig, or working with Twister / modules.
 ---

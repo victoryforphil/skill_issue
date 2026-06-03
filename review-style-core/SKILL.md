@@ -1,4 +1,5 @@
 ---
+hash: "534d560f664490928b3bc677279565a8834cb2bc248b293eba4a7119fe92a0e8"
 name: review-style-core
 description: Review for repo-wide style, code quality, duplication, comments, function sizes, and non-defensive/compatibility issues.
 ---

@@ -1,4 +1,5 @@
 ---
+hash: "e68211b990d221c9473312a626bb8b94ac1f7dceb5289141a3892aa18bb9e6c8"
 name: install-vfp-tuikit-skills
 description: Use when installing the repo's .agents/skills files from GitHub or a raw URL into ~/.agents/skills/.
 ---

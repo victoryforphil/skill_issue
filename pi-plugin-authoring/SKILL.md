@@ -1,4 +1,5 @@
 ---
+hash: "bdba76bcabb6e20a4efcca5a32c0d745f83addc3b1e1215b6d92a26bee61e964"
 name: pi-plugin-authoring
 description: Author Pi coding-agent plugins/extensions. Use when creating, debugging, packaging, or documenting Pi extensions that subscribe to lifecycle events, register tools/commands/shortcuts, update UI status/widgets, or integrate with external terminal/app protocols such as Warp OSC notifications.
 ---

@@ -1,4 +1,5 @@
 ---
+hash: "398e60a0d12847a62b14f33e15ce444681d9e886a49804b8a720590599598fa5"
 name: builder
 description: Split larger or multi-feedback tasks across parallel implementation subagents.
 ---

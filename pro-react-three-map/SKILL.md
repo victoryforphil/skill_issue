@@ -1,4 +1,5 @@
 ---
+hash: "9b8c4d2c3425b7a23d36376e793e752ba00db9b17fd0f0f2fa5224ecad85f5ff"
 name: pro-react-three-map
 description: Expert reference for using react-three-map with Mapbox/MapLibre, react-map-gl, and React Three Fiber. Load when implementing map scenes, geographic 3D markers, react-three-map Canvas/Coordinates, or Mapbox + R3F integration.
 ---

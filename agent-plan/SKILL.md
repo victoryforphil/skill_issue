@@ -1,4 +1,5 @@
 ---
+hash: "0dd612db17f0d08553e30c3a21b30531a4db649b2be475a776a058595d1962aa"
 name: agent-plan
 description: Run a short interactive plan walkthrough before implementation, using one focused question at a time and concise decision capture.
 ---

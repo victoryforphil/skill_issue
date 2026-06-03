@@ -1,4 +1,5 @@
 ---
+hash: "c6c9ccfc7a66388788a86d7b7538149651fff5647b34d73e548c7e83943bfd4d"
 name: opencode
 description: >
   Expert knowledge of OpenCode (the AI coding agent). Load when working with

@@ -1,4 +1,5 @@
 ---
+hash: "a7c4108d24bad25d0b9e8576c8479286de000577d12d664a6444a70c14dbbe94"
 name: generic-flatbuffers-schema-maker
 description: Generic FlatBuffers schema skill for projects without a repo-specific FlatBuffers schema skill.
 ---

@@ -1,4 +1,5 @@
 ---
+hash: "b2ca2dd674af18a7584a26686d9e8ce426dda2686499769a754f3293e37d3d72"
 name: docs-scraper
 description: Scrape technical documentation into cleaned reusable local reference notes with metadata and consistent headings.
 ---

@@ -1,4 +1,5 @@
 ---
+hash: "27604fb9a4b37a8a645fb796ba042b71ca173dd8a4d9564132b5e597636dedd8"
 name: style-docs
 description: Write and review concise, scannable, decision-focused docs, prompts, skill files, and handoff notes while following local repo conventions.
 ---

@@ -1,4 +1,5 @@
 ---
+hash: "c8660a2b96e9d0ab760c7b6320f67feb7d3471e3ce18624efdf9e9df86bb178b"
 name: rust-test-nextest
 description: Run Rust tests with `cargo nextest run` first, then fall back to `cargo test` when needed.
 ---

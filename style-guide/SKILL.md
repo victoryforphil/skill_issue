@@ -1,4 +1,5 @@
 ---
+hash: "3da930555f2f75847c7db3cbb70761e669f68a726b6002881d04f7d550266fb5"
 name: style-guide
 description: Applies STYLE.md conventions during implementation and review. Use for code changes, refactors, and output formatting decisions.
 ---

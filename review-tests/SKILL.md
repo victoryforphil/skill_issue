@@ -1,4 +1,5 @@
 ---
+hash: "408a6bdec606a5a61c2026924d4c854f977f59f657e0d3c4e69d44918b772055"
 name: review-tests
 description: Review tests for regression coverage, meaningful assertions, brittle fixtures, missing negative cases, and alignment with behavior changes.
 ---
