@@ -1,6 +1,6 @@
 # VFP Agent Skills
 
-A curated collection of 73 agent skills for OpenCode, Claude Code, Codex, Cursor, and other compatible coding agents.
+A curated collection of 74 agent skills for OpenCode, Claude Code, Codex, Cursor, and other compatible coding agents.
 
 ## Install
 
@@ -102,6 +102,7 @@ npx skills add victoryforphil/skill_issue --global
 | `agent-fanout` | Parallel agent fanout patterns |
 | `script-authoring` | Author shell/automation scripts |
 | `devcontainer-workflows` | Devcontainer setup and workflow patterns |
+| `gazebo-sim-containers` | Isolated Gazebo, ROS 2, and desktop-app testing in Linux containers |
 | `research` | Research and investigation workflows |
 | `tool-opencode` | OpenCode-specific tool patterns |
 
@@ -165,7 +166,7 @@ Load with: `skill({ name: "skill-name" })`
 
 ### Workflow & Agents
 - agent-core, agent-plan, agent-review, agent-handoff, agent-fanout
-- script-authoring, devcontainer-workflows, research, tool-opencode
+- script-authoring, devcontainer-workflows, gazebo-sim-containers, research, tool-opencode
 
 ### Project-Specific
 - firmware-tmux-test-cycle (ESP32 UWB hardware tests)
